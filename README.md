@@ -119,4 +119,6 @@ Figure 6 is a map that summarizes information about the length of a bike trip fr
 ## Conclusion
 
 Casual riders make up twenty-two percent of all riders, while member riders make up the remaining seventy-eight percent. Considering peak time patterns, most of the member ridership peaks during rush our before and after workday hours. On the other hand, casual ridership peaks late Friday evening and Sunday afternoons. CitiBike could provide membership opportunities during these peak hours to casual riders to increase their numbers. Additionally, casual riders are more likely to ride electric bikes compared to members, consequently CitiBike could make them more available to these riders. 
-Considering bike stations with higher ridership numbers are found in neighborhoods with higher income, CitiBike could implement incentives for ridership in neighborhoods with lower incomes in order to 
+&nbsp;
+<br/>
+Considering bike stations with higher ridership numbers are found in neighborhoods with higher income, CitiBike could implement incentives for ridership in neighborhoods with lower incomes in order to increase membership. Additionally, this data provides information regarding stations with high ridership and frequent destinations. With this knowledge, Citibike can partner with other companies such as food trucks to provide a more satisfactory experiences for ridership and potentially attract more customers.

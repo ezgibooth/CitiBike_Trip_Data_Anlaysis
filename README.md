@@ -78,7 +78,7 @@ Figure 3 shows that:
 ### Bike Station Distribution and Popularity
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/118090932/232264890-3cdf9d4b-ebac-45ad-9169-f98b61a17148.png" width="650" height="500">
+<img src="https://user-images.githubusercontent.com/118090932/232264890-3cdf9d4b-ebac-45ad-9169-f98b61a17148.png" width="750" height="500">
 </p>
 
 <p align="center">
@@ -100,8 +100,23 @@ Figure 4 is a map that shows:
 Figure 5. High Ridership Frequency Stations
 </p>
 
+Figure 5 shows that the following four stations are the busiest with high ridership:
+* Hoboken Terminal, Gove St. Path, Newport Pkwy and South Waterfront
 
+### Ride Length Based on Origin and Destination
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/118090932/232265612-335b566e-04b5-4bd7-87a1-6b7e8e1cd1da.png" width="750" height="500">
+</p>
+<p align="center">
+Figure 6. Ride Length & Destination
+</p>
 
+Figure 6 is a map that summarizes information about the length of a bike trip from a location of origin to all destinations from completed rides. 
+* This map shows that riders travel out of Hoboken and Gove stations often
+* While the ride length and time vary, longer distance trips do not necessarily indicate longer trip durations.
 
+## Conclusion
 
+Casual riders make up twenty-two percent of all riders, while member riders make up the remaining seventy-eight percent. Considering peak time patterns, most of the member ridership peaks during rush our before and after workday hours. On the other hand, casual ridership peaks late Friday evening and Sunday afternoons. CitiBike could provide membership opportunities during these peak hours to casual riders to increase their numbers. Additionally, casual riders are more likely to ride electric bikes compared to members, consequently CitiBike could make them more available to these riders. 
+Considering bike stations with higher ridership numbers are found in neighborhoods with higher income, CitiBike could implement incentives for ridership in neighborhoods with lower incomes in order to 

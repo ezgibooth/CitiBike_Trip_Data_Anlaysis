@@ -39,5 +39,69 @@ Figure 2. Peak Ridership
 The Dashboard in Figure 2 shows that:
 * March evening peak hours were 5PM & 6PM for both casual and member riders
 * While 7AM & 8AM were morning peak hours for member riders, 7AM was the least busy time for ccasual riders.
+* During the week, peak ridership hours are concentrated between 5PM-7PM, while over the weekend, peak ridership hours were between noon and 5PM.
+
+### Understanding Usage Difference
+
+<img align="left" width="500" height="300" src="https://user-images.githubusercontent.com/118090932/232263821-827a4e58-8860-43c3-a962-ab3cc6dccf03.png">
+
+<img align="right" width="450" height="300" src="https://user-images.githubusercontent.com/118090932/232263831-2e79db46-cc14-4f2a-833a-b07b8ae6cf07.png">
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+<p align="center">
+Figure 3. Peak Ridership Throughout the Week
+</p>
+
+Figure 3 shows that:
+* During the week, ridership peaks at 8AM and 6PM, on Friday the evening peak is at 5PM and on Sunday, it is at 4PM.
+* Electric bike ridership goes down on the weekend compared to classic bike usage.
+* During weekdays, classic bike ridership can increase four fold while, electric bike usage can increase by six to seven fold.
+### Bike Station Distribution and Popularity
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/118090932/232264890-3cdf9d4b-ebac-45ad-9169-f98b61a17148.png" width="650" height="500">
+</p>
+
+<p align="center">
+Figure 4. Bike Station Distribution & Popularity & Household income
+</p>
+
+Figure 4 is a map that shows:
+* The location of bike stations and their populatiry indicated by circle size
+* Average household income
+* Most of the bike stations are found in areas with average household income between $81,000 to $250,000
+* Number of bike stations are less in areas where household income is less than $60,000
+
+### High Ridership Stations
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/118090932/232265295-46370338-69b9-4e84-91dd-b5bceb238c0e.png" width="750" height="500">
+</p>
+<p align="center">
+Figure 5. High Ridership Frequency Stations
+</p>
+
+
+
+
 
 
